@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Topics Covered
+1. What is ReactJs
+2. What is Props
+3. What is State
+4. What are Hooks
+5. What are Components
+6. What is ClassBase Component
+7. What is Functional Component
+8. Difference between Functional and Class
+9. How to pass Children as Props
+10. Using Fetch 
+11. Using map (not finished)
+
 ## Available Scripts
 
 In the project directory, you can run:
